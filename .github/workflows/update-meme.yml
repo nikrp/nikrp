@@ -15,7 +15,7 @@ jobs:
       - name: Fetch Random Meme URL
         id: fetch-meme-url
         run: |
-          meme_url=$(curl -s "http://localhost:3000/api/random-meme?g=coding")
+          meme_url=$(curl -s "http://192.168.1.51:3000/api/random-meme?g=coding")
           echo "::set-output name=url::$meme_url"
 
       - name: Update README
