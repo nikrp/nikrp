@@ -1,0 +1,35 @@
+name: Update README with Random Meme URL
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Random Meme URL
+        id: fetch-meme-url
+        run: |
+          meme_url=$(curl -s "http://localhost:3000/api/random-meme?g=coding")
+          echo "::set-output name=url::$meme_url"
+
+      - name: Update README
+        run: |
+          # Extract the meme URL from the response
+          meme_url="${{ steps.fetch-meme-url.outputs.url }}"
+          
+          # Replace the placeholder in the README with the meme URL
+          sed -i 's|{{RANDOM_MEME_URL}}|'"$meme_url"'|' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with a random meme URL"
+          git push
