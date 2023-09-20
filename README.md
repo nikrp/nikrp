@@ -42,4 +42,4 @@ Mostly web development. Also working with Python in the backend.
 
 ## Random Meme
 
-<img src="https://github.com/nikrp/nikrp/assets/76831568/3e8c0f1a-5d60-44f1-a8d1-0e3147b66007" alt="random meme" style="height: 400px;"/>
+<img src="https://github.com/nikrp/nikrp/assets/76831568/0be3a60a-7351-4c60-b63a-b331b7190d68" alt="random meme" style="height: 400px;"/>
