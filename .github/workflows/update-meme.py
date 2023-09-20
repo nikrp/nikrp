@@ -11,7 +11,7 @@ dotenv.load_dotenv()
 GH_ACCESS_TOKEN = os.getenv("GH_ACCESS_TOKEN")
 git = Github("nikrp", GH_ACCESS_TOKEN)
 
-# Get the README from the repository
+# Get the README from the repo
 repository = git.get_user().get_repo("nikrp")
 file = repository.get_contents("README.md")
 readme = file.decoded_content.decode("utf-8")
