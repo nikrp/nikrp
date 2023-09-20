@@ -2,7 +2,7 @@ name: run update-meme.py
 
 on:
   schedule:
-    - cron: '5 22 * * *'
+    - cron: '8 3 * * *'
 
 jobs:
   build:
