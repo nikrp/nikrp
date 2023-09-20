@@ -1,0 +1,24 @@
+name: Run Python Script on README Change
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_run:
+    workflows: ["Check README"]
+    types:
+      - completed
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run Python Script
+        run: python your_script.py
