@@ -24,7 +24,7 @@ jobs:
           meme_url="${{ steps.fetch-meme-url.outputs.url }}"
           
           # Update the README with the meme URL using the GitHub API
-          curl -X PUT "https://api.github.com/repos/username/repo/contents/README.md" \
+          curl -X PUT "https://api.github.com/repos/nikrp/nikrp/contents/README.md" \
             -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
             -d '{
               "message": "Update README with a random meme URL",
