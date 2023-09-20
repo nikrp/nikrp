@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Random Meme]({{RANDOM_MEME_URL}})
+<img src="http://192.168.1.52/api/random-meme?g=coding" alt="Random Meme" style="height: 400px;"/>
 
 <!--
 **nikrp/nikrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
