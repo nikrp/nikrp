@@ -12,8 +12,7 @@ My name is [Nikhil Pellakuru](https://nikhil-delta.vercel.app) and I have been a
 
 Right now as of September 2023, I am working on a couple of projects. Here they are.
 
-- TOP SECRET PROJECT WITH MY FRIEND [@Dev-Andra](https://github.com/Dev-Andra).
-- React [weather app](https://github.com/nikrp/weather-app) using OpenWeatherMap API.
+- Brawl Stars Stats Tracker
 
 ## I'm Currently Learning... 🌱
 
