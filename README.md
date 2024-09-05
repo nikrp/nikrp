@@ -10,9 +10,9 @@ My name is [Nikhil Pellakuru](https://nikhil-delta.vercel.app) and I have been a
 
 ## I'm Currently Working On... 🔭
 
-Right now as of September 2023, I am working on a couple of projects. Here they are.
+Right now as of September 2024, I am working on a couple of projects. Here they are.
 
-- Brawl Stars Stats Tracker
+... I'm Free
 
 ## I'm Currently Learning... 🌱
 
