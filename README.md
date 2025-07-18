@@ -1,29 +1,25 @@
 
 # About Me 👋
 
-My name is [Nikhil Pellakuru](https://nikhil-delta.vercel.app) and I have been a programmer for 8 years. Here are a few fun facts about me!
+My name is [Nikhil Pellakuru](https://nikhil-delta.vercel.app), and I have been a programmer for 10 years. Here are a few fun facts about me!
 
-- 13 years old
+- 15 years old
 - Played soccer for 8 years
-- Brawl Stars Addict (Gold III Max Power Rank 27 Kraken Surge Beats All)<br/>
-![Be Better at Brawl idk](https://cdn3.emoji.gg/emojis/9843-navi-brawlstars-pin.png)
 
 ## I'm Currently Working On... 🔭
 
-Right now as of September 2024, I am working on a couple of projects. Here they are.
+Right now as of July 2025, I am working on a couple of projects. Here they are.
 
-... I'm Free
+- Congressional App Challenge 2025
 
 ## I'm Currently Learning... 🌱
 
 Right now I'm learning a couple of things. Mainly ReactJS and other web development. Here are some frameworks and languages I'm learning.
 
-- ReactJS
-- Express
-- JS
+- NextJS
+- Shadcn
+- Machine Learning
 - Advanced Python
-- React Bootstrap
-- Semantic UI React
 
 Mostly web development. Also working with Python in the backend.
 
@@ -33,12 +29,3 @@ Mostly web development. Also working with Python in the backend.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikrp)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikrp&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&background=45%2C45EB38%2C98E4EB&fire=240FEB&ring=240FEB&dates=EB0A0A)](https://git.io/streak-stats)
-
-## Pinned Repos
-[![Java-School](https://github-readme-stats.vercel.app/api/pin/?username=nikrp&repo=Java-School)](https://github.com/nikrp/Java-School)
-
-[![Multi-Game](https://github-readme-stats.vercel.app/api/pin/?username=nikrp&repo=Multi-Game)](https://github.com/nikrp/Multi-Game)
-
-## Random Meme
-
-<img src="https://github.com/nikrp/nikrp/assets/76831568/b5822348-e3ed-4ba7-8682-0cba1ad3cd5a" alt="random meme" style="height: 400px;"/>
